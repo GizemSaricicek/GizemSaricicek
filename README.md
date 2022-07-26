@@ -4,7 +4,7 @@ My name is Gizem Saricicek, I graduated from Baskent University in 2022. I reall
 
 ## I'm Computer Engineer.
 
-- 🌱 I’m currently learning SpringBoot and backand tech.
+- 🌱 I’m currently learning SpringBoot and back-end tech.
 - ⚡ I like to solve problems and find new solutions.
 - 🥅 My Goals: I want to learn more about software development skills and improve myself.
 
